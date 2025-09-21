@@ -1,0 +1,34 @@
+{
+  "THYAO:BIST": {
+    "meta": {
+      "symbol": "THYAO",
+      "interval": "1min",
+      "currency": "TRY",
+      "exchange_timezone": "Europe/Istanbul",
+      "exchange": "BIST",
+      "mic_code": "XIST",
+      "type": "Common Stock"
+    },
+    "values": [
+      {
+        "datetime": "2025-09-12 17:59:00",
+        "open": "312.5",
+        "high": "312.75",
+        "low": "312.5",
+        "close": "312.75",
+        "volume": "45604"
+      }
+    ],
+    "status": "ok"
+  },
+  "GARAN:BIST": {
+    "code": 404,
+    "message": "This symbol is available starting with Grow (Grow plan). Consider upgrading now at https://twelvedata.com/pricing",
+    "status": "error"
+  },
+  "AKBNK:BIST": {
+    "code": 404,
+    "message": "This symbol is available starting with Grow (Grow plan). Consider upgrading now at https://twelvedata.com/pricing",
+    "status": "error"
+  }
+}
